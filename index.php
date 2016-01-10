@@ -1,7 +1,12 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Ida
- * Date: 10/01/2016
- * Time: 12:55
- */
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fantastic Fotorama</title>
+    <link rel="stylesheet" href="style/style.css">
+    <script src="libs/jquery/jquery.js"></script>
+</head>
+<body>
+
+</body>
+
+</html>
