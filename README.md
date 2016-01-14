@@ -3,4 +3,7 @@ Using jQuery plugin Fotorama
 
 ## Production server
 This site is currently live on: 
- * http://karnadesign.se/portfolio/jquery-using-the-fotorama-plugin/
+ * http://karnadesign.se/demos/jquery/fantastic-fotorama-1.0/
+ * http://karnadesign.se/demos/jquery/fantastic-fotorama-1.1/
+ 
+ 
