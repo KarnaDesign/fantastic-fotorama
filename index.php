@@ -15,7 +15,8 @@
 <header><h1>Fantastic Fotorama</h1></header>
 
 <div id="wrapper">
-    <div class="fotorama">
+    <div class="fotorama" data-nav="thumbs">
+        
         <img src="images/autumn-985918_1920.jpg">
         <img src="images/autumn-1072827_1920.jpg">
         <img src="images/dandelion-437827_1920.jpg">
