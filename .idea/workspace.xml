@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="761a813f-5142-4583-8713-575b58011c58" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="fantastic-fotorama.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.5607115">
-              <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
+              <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -87,8 +88,8 @@
       <list>
         <option value="$PROJECT_DIR$/libs/jquery/jquery.js" />
         <option value="$PROJECT_DIR$/style/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -263,7 +264,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2891" y="289" width="2902" height="1558" extended-state="7" />
+    <frame x="-2891" y="289" width="2902" height="1558" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -317,14 +318,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.088235">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.9473684">
@@ -336,10 +329,18 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.088235">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5607115">
-          <caret line="29" column="97" selection-start-line="29" selection-start-column="97" selection-end-line="29" selection-end-column="97" />
+          <caret line="29" column="67" selection-start-line="29" selection-start-column="67" selection-end-line="29" selection-end-column="67" />
           <folding />
         </state>
       </provider>
